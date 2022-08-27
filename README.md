@@ -1,15 +1,9 @@
 
 
-
-
-Using Herokuapp for line count: http://line-count.herokuapp.com/saif-karnawi/ShareIt---React-Redux-Node-Express-MongoDB
-
-
-
 To start, run 'npm i' , 'npm install body-parser cors express mongoose nodemon', and 'npm start' for both client and server side.
 If at any point one of these commands does not work, run:
   
-export NODE_OPTIONS=--openssl-legacy-provider on server
+If an error is thrown, export NODE_OPTIONS=--openssl-legacy-provider on server
 then 'npm start' - both on server side. 
 
 
